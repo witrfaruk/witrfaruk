@@ -206,7 +206,7 @@ Share
 
 **Made with ❤️ by Md Faruk Abdulla**
 
-<a href="https://www.buymeacoffee.com/farukhetro" target="_blank">
+<a href="https://www.paypal.com/paypalme/arifpayment" target="_blank">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
 </a>
 

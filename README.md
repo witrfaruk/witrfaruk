@@ -1,10 +1,30 @@
 <div align="center">
 
-# Md Faruk Abdulla
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:1f2937&height=180&section=header&text=Md%20Faruk%20Abdulla&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
-Building B2B products with AI  Automation and Software
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=50&lines=Building+B2B+Products;Building+SaaS+Products;Automating+Business+Workflows;Using+AI+to+Solve+Real+Problems;Build+%E2%86%92+Ship+%E2%86%92+Learn+%E2%86%92+Scale" />
 
-[GitHub](https://github.com/farukhetro) · [Portfolio](https://farukhetro.vercel.app/) · [LinkedIn](https://www.linkedin.com/company/farukhetro/) · [X](https://x.com/farukhetro) · [Instagram](https://instagram.com/farukhetro)
+<br>
+
+<a href="https://github.com/farukhetro">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://farukhetro.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<a href="https://x.com/farukhetro">
+<img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/farukhetro">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/company/farukhetro/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 </div>
 
@@ -16,92 +36,24 @@ I build B2B products that solve real business problems
 
 My main focus is
 
-- B2B Products
-- SaaS
-- AI
-- Automation
-- Product Development
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2200&pause=500&color=36BCF7&width=700&height=35&lines=B2B+Products;SaaS;AI;Automation;Product+Development" />
 
 My approach is simple
 
-**Find a real business problem → Build a solution → Get users → Improve → Scale**
-
----
-
-## What I'm Building
-
-I am focused on turning real problems into simple software products
-
-I explore opportunities where software can
-
-- Save businesses time
-- Reduce repetitive work
-- Automate workflows
-- Improve operations
-- Generate measurable value
-
-The goal is not to build software for the sake of building
-
-The goal is to build products people actually use and pay for
-
----
-
-## Philosophy
-
-> Build useful products
-
-Start with the problem
-
-Understand the workflow
-
-Build the simplest useful solution
-
-Get it in front of users
-
-Learn from reality
-
-Improve what matters
-
-Scale what works
-
----
-
-## Open Source
-
-I share tools and experiments that can be useful to other developers and builders
-
-Explore them
-
-Learn from them
-
-Build on them
-
-Improve them
-
----
-
-## Connect With Me
-
-[GitHub](https://github.com/farukhetro)
-
-[Portfolio](https://farukhetro.vercel.app/)
-
-[LinkedIn](https://www.linkedin.com/company/farukhetro/)
-
-[X](https://x.com/farukhetro)
-
-[Instagram](https://instagram.com/farukhetro)
-
-[YouTube](https://www.youtube.com/@FarukHetro)
-
-[Pinterest](https://www.pinterest.com/farukhetro/)
-
-[Email](mailto:farukhetro@proton.me)
-
----
-
-<div align="center">
-
-**Build → Ship → Learn → Improve**
-
-</div>
+```text
+        REAL BUSINESS PROBLEM
+                  ↓
+              RESEARCH
+                  ↓
+              BUILD
+                  ↓
+                SHIP
+                  ↓
+              GET USERS
+                  ↓
+              MEASURE
+                  ↓
+              IMPROVE
+                  ↓
+                SCALE
+                  ↺

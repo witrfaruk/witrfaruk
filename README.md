@@ -6,19 +6,19 @@
 
 <br/>
 
-<a href="https://github.com/farukhetro">
+<a href="https://github.com/witrfaruk">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="https://farukhetro.vercel.app/">
+<a href="https://witrfaruk.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
-<a href="https://x.com/farukhetro">
+<a href="https://x.com/witrfaruk">
 <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" />
 </a>
-<a href="https://instagram.com/farukhetro">
+<a href="https://instagram.com/witrfaruk">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
-<a href="https://www.linkedin.com/company/farukhetro/">
+<a href="https://www.linkedin.com/company/witrfaruk/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
@@ -139,9 +139,9 @@ Share
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=farukhetro&theme=dark&background=111827&ring=36BCF7&fire=FF6B6B&currStreakNum=36BCF7&sideNums=36BCF7&currStreakLabel=7EE787&sideLabels=7EE787&dates=7EE787&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=witrfaruk&theme=dark&background=111827&ring=36BCF7&fire=FF6B6B&currStreakNum=36BCF7&sideNums=36BCF7&currStreakLabel=7EE787&sideLabels=7EE787&dates=7EE787&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farukhetro&layout=compact&theme=dark&bg_color=111827&title_color=36BCF7&text_color=7EE787&border_color=36BCF7)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=witrfaruk&layout=compact&theme=dark&bg_color=111827&title_color=36BCF7&text_color=7EE787&border_color=36BCF7)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
@@ -154,29 +154,29 @@ Share
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/farukhetro">
+      <a href="https://github.com/witrfaruk">
         <img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github" alt="GitHub" />
       </a>
     </td>
     <td align="center">
-      <a href="https://farukhetro.vercel.app/">
+      <a href="https://witrfaruk.vercel.app/">
         <img src="https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=googlechrome" alt="Portfolio" />
       </a>
     </td>
     <td align="center">
-      <a href="https://x.com/farukhetro">
+      <a href="https://x.com/witrfaruk">
         <img src="https://img.shields.io/badge/X-Follow-111111?style=for-the-badge&logo=x" alt="Twitter" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://instagram.com/farukhetro">
+      <a href="https://instagram.com/witrfaruk">
         <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" alt="Instagram" />
       </a>
     </td>
     <td align="center">
-      <a href="https://www.linkedin.com/company/farukhetro/">
+      <a href="https://www.linkedin.com/company/witrfaruk/">
         <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
       </a>
     </td>
